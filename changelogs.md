@@ -1,6 +1,6 @@
-• New Modules been released
+Nee Version of Null Universe V2
 
-Main Feature
-• Disable Thermal
-• High Performance
-• might be overheat your devices due the high performance
+Changelog 
+• Disable Thermal On or OFF Depends of yours 
+• Skiavk by John Davee
+• 2D or 3D or 4D Skiavk 
