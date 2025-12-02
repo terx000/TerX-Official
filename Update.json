@@ -1,6 +1,6 @@
 {
-    "version": "v2.5-Release-Fix",
-    "versionCode": 25,
+    "version": "v1.0",
+    "versionCode": 10,
     "zipUrl": "https://github.com/terx000/TerX-Official/releases/download/TerX-Performance/Null_Universe_V3.0_.Root.zip",
     "changelog": "https://raw.githubusercontent.com/terx000/TerX-Official/refs/heads/main/Changelogs.md"
 }
