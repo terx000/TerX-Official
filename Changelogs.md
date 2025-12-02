@@ -1,20 +1,31 @@
-- Feature 🔥 -
-• Selecting Watts Flashing [ Volume + & Volume - ]
-• Extend Battery Long Life 
-• Optimize Battery Temperature 
-• Balance battery & watts
-• Surface Flinger 
-• Set schedutil
-• Best Performance when Balance mode 
-• When gaming mode the battery didn't Decreases immediately 
+[ New Version of Null Universe V3.0 Released ]
 
-Credits code sources
-•@KanagawaYamadaVTeacher
-•@Koneko_dev
-•@Kzuyoo
-•@kaminarich
+• Added Surface Flinger by: Kanagawa Yamada
 
-Changelog:
-• Fix bug founded past months ago 
-• Removing ai cause of infinite loop
-• Added Auto Detection System Temperature 
+
+• Added GPU Tweaks by: John Davee 
+
+
+• Added Disable Thermal Full State
+
+
+• Added Touch Boost 
+
+
+• Added High Refresh Rates by: Kanagawa Yamada
+
+
+• Added WebUI by: Kaminari
+
+
+• 2nd Creator of Modules > Kaminari
+
+
+• Logic Modules By: Kanagawa Yamada
+
+
+NOTE⚠️
+
+
+• The Disable Thermal Cause your Phone Overheating 
+
