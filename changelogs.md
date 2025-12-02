@@ -22,3 +22,9 @@
 
 
 • Logic Modules By: Kanagawa Yamada
+
+
+NOTE⚠️
+
+
+• The Disable Thermal Cause your Phone Overheating 
