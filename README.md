@@ -1,1 +1,1 @@
-First creator of the charging speed and Battery saver modules for rooted devices is Salen, Niño known as TerX Official Creates a modules for access the hardware of phone charging speed and and Battery Student CSS From Philippines 
+First creator of the charging speed and Battery saver modules for rooted devices is Salen, Niño known as TerX Official Creates a modules for access the hardware of phone charging speed and Battery she was a CSS Student From Philippines 
