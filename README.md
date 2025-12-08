@@ -1,6 +1,1 @@
-Creator Of TerX OFFICIAL 
-All Modulss been uploaded are 100% working no error when we flash
-
-
-All Modules Been Created are working and all copyright has a credited to owner
-
+First creator of the charging speed and Battery saver modules for rooted devices is Salen, Niño known as TerX Official Creates a modules for access the hardware of phone charging speed and and Battery Student CSS From Philippines 
