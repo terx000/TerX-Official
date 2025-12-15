@@ -1,30 +1,33 @@
-[ New Version of Null Universe V3.0 Released ]
+Notes for rooted: 
 
-• Added Surface Flinger by: Kanagawa Yamada
+• Do not combine or conflict the game enhancer in any types of game performance 
 
+- Changelog🔥 -
+  
+• make your battery longer life
 
-• Added GPU Tweaks by: John Davee 
+• optimize all apps when battery giving the life
 
+• boost performance v2
 
-• Added Disable Thermal Full State
+• Can now combine any enhancer except for " Don't conflict the game enhancer "
 
+• Per Watts Chooses now available in Ax Manager 
 
-• Added Touch Boost 
+- Feature🔥 -
+  
+• CPU & GPU Boost
 
+• Apps Optimizer 
 
-• Added High Refresh Rates by: Kanagawa Yamada
+• Game Enhance Performance 
 
+• Enhance Touch
 
-• Added WebUI by: Kaminari
+• Add PowerX Main Core Compile Clang 19.0.0 
 
+• Per Watts enabling fast charging 
 
-• 2nd Creator of Modules > Kaminari
+Credit for Game Enhancer 
 
-
-• Logic Modules By: Kanagawa Yamada
-
-
-NOTE⚠️
-
-
-• The Disable Thermal Cause your Phone Overheating 
+• RAAJK20Pro 
