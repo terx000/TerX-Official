@@ -1,33 +1,21 @@
-Notes for rooted: 
+⚠️DON'T UPDATE WITH AX MANAGER THIS IS ONLY FOR ROOTED DEVICES ⚠️
 
 • Do not combine or conflict the game enhancer in any types of game performance 
 
 - Changelog🔥 -
   
-• make your battery longer life
 
-• optimize all apps when battery giving the life
+• Upgrades High Temperature 
 
-• boost performance v2
+• Remove PowerX Main Core
 
-• Can now combine any enhancer except for " Don't conflict the game enhancer "
+• Atmosphere Main Core
 
-• Per Watts Chooses now available in Ax Manager 
+• Added Balance mode Selection
 
-- Feature🔥 -
-  
-• CPU & GPU Boost
+• Added Setprop for Battery 
 
-• Apps Optimizer 
+Note:⚠️
 
-• Game Enhance Performance 
-
-• Enhance Touch
-
-• Add PowerX Main Core Compile Clang 19.0.0 
-
-• Per Watts enabling fast charging 
-
-Credit for Game Enhancer 
-
-• RAAJK20Pro 
+If you want to update your modules in ax Manager Go to Telegram to download the files 
+> https://t.me/terxofficial
