@@ -1,21 +1,38 @@
-⚠️DON'T UPDATE WITH AX MANAGER THIS IS ONLY FOR ROOTED DEVICES ⚠️
+• Changelog: 
 
-• Do not combine or conflict the game enhancer in any types of game performance 
-
-- Changelog🔥 -
+- New Battery Optimization 2 added. Using C++ to make a hardware fully access and safety anti kernel panics and make rewriteable
+  
+- System Optimization make your device smoothly and improving system
+  
+- Battery Extender [ New ] make your battery optimize without reducing the performance
+  
+- Add SurfaceFlinger make interface smoothly
+  
+- RAM optimization
+  
+- VM tuning for faster app launches
+  
+- I/O optimization
+  
+- Chipset-aware tuning
+  
+- Safe writes and logging
+  
+- New Added Controlling Panel
   
 
-• Upgrades High Temperature 
+• Feature:
 
-• Remove PowerX Main Core
-
-• Atmosphere Main Core
-
-• Added Balance mode Selection
-
-• Added Setprop for Battery 
-
-Note:⚠️
-
-If you want to update your modules in ax Manager Go to Telegram to download the files 
-> https://t.me/terxofficial
+- Adaptive idle pacing
+  
+- Chipset-aware tweaks
+  
+- Adaptive Battery
+  
+- Enabling Push Limit of Volts and watts
+  
+- Battery Optimize Automatic
+  
+- System Optimization
+  
+- Improving System Without Reducing Gaming Performance 
